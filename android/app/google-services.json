@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472861838504",
+    "project_id": "demu-c764b",
+    "storage_bucket": "demu-c764b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472861838504:android:76184978330a520457469d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472861838504-ed82kh1na9s0ca18qnoff93jimn0pl2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqGCP9PAjS9d5MYkzx0JZQWy_hVJQ_-W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472861838504-ed82kh1na9s0ca18qnoff93jimn0pl2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
